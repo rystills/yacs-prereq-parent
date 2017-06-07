@@ -1,0 +1,6 @@
+[submodule "yacs-prereq-web"]
+	path = yacs-prereq-web
+	url = https://github.com/YACS-RCOS/yacs-prereq-web
+[submodule "yacs-prereq-data"]
+	path = yacs-prereq-data
+	url = https://github.com/YACS-RCOS/yacs-prereq-data
